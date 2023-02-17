@@ -2,11 +2,11 @@
 
 ## Github
 
-(https://github.com/samisouabni/build-ml-pipeline-for-short-term-rental-prices.git)[https://github.com/samisouabni/build-ml-pipeline-for-short-term-rental-prices.git]
+[https://github.com/samisouabni/build-ml-pipeline-for-short-term-rental-prices.git](https://github.com/samisouabni/build-ml-pipeline-for-short-term-rental-prices.git)
 
 ## Weights and Biases
 
-(https://wandb.ai/samisouabni/nyc_airbnb)[https://wandb.ai/samisouabni/nyc_airbnb]
+[https://wandb.ai/samisouabni/nyc_airbnb](https://wandb.ai/samisouabni/nyc_airbnb)
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
