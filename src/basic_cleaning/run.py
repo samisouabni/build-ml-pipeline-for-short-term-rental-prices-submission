@@ -64,28 +64,28 @@ if __name__ == "__main__":
     parser.add_argument(
         "--input_artifact", 
         type=str,
-        help="The data artifact to be cleaned",
+        help="Name for the input artifact",
         required=True
     )
 
     parser.add_argument(
         "--output_artifact", 
         type=str,
-        help="The cleaned data artifact",
+        help="Name for the output artifact",
         required=True
     )
 
     parser.add_argument(
         "--output_type", 
         type=str,
-        help="The type of data",
+        help="Type of the output artifact. This will be used to categorize the artifact in the W&B interface",
         required=True
     )
 
     parser.add_argument(
         "--output_description", 
         type=str,
-        help="The description of the data",
+        help="A brief description of the output artifact",
         required=True
     )
 
